@@ -1,3 +1,5 @@
+#Requires License to PCI Catalyst
+
 import pci
 from pci.pcimod import pcimod
 from pci.sieve import *
