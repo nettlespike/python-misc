@@ -1,2 +1,2 @@
-# GDAL-Tests
-Various projects working with GDAL and other GIS-related packages in Python
+# Miscellaneous Projects
+Various snippets of code exploring geospatial packages in Python.
